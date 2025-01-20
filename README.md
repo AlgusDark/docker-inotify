@@ -1,9 +1,9 @@
 # docker-inotify
 
-[![Version](https://img.shields.io/docker/v/devodev/inotify?color=brightgreen&label=version)](https://github.com/devodev/docker-inotify)
-[![Version](https://img.shields.io/docker/image-size/devodev/inotify)](https://github.com/devodev/docker-inotify)
-[![Docker Pulls](https://img.shields.io/docker/pulls/devodev/inotify.svg)](https://hub.docker.com/r/devodev/inotify/)
-[![Docker Stars](https://img.shields.io/docker/stars/devodev/inotify.svg)](https://hub.docker.com/r/devodev/inotify/)
+[![Version](https://img.shields.io/docker/v/devodev/inotify?color=brightgreen&label=version)](https://github.com/AlgusDark/docker-inotify)
+[![Version](https://img.shields.io/docker/image-size/devodev/inotify)](https://github.com/AlgusDark/docker-inotify)
+[![Docker Pulls](https://img.shields.io/docker/pulls/devodev/inotify.svg)](https://hub.docker.com/r/AlgusDark/inotify/)
+[![Docker Stars](https://img.shields.io/docker/stars/devodev/inotify.svg)](https://hub.docker.com/r/AlgusDark/inotify/)
 
 ## Quick reference
 
